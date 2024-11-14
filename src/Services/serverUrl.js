@@ -1,0 +1,1 @@
+export const serverURL = "https://book-management-backend-j62u.onrender.com"
